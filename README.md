@@ -12,7 +12,7 @@ I am an aspiring developer and designer interested in the cross-section between 
 * Trilingual ability in English, Portuguese, and Spanish
 ### Archive
 [Technical Portfolio] <!-- Code and stuff -->
-[Creative and Research Blog] <!-- will link to my neocities and stuff -->
+<a href="https://legoharu.neocities.org">[Creative and Research Blog]</a> <!-- will link to my neocities and stuff -->
 
 <!--
 **legoharu/legoharu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
